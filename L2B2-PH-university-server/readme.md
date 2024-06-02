@@ -19,3 +19,8 @@ Description: This is an updated diagram illustrates the relationships among User
 Description: This is a postman collection of all the API endpoints.Download this , and import it in your postman if you needed.
 
 ---
+
+![POSTMAN ENDPINTS](https://documenter.getpostman.com/view/26682150/2s9YywfzYQ#9cefdf6d-d7ff-4f51-b699-c16f0e02f5ba)
+
+
+---
