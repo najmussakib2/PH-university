@@ -21,7 +21,7 @@ const studentDummyData = {
     },
     gender: 'male',
     dateOfBirth: '1990-01-01',
-    bloogGroup: 'A+',
+    bloodGroup: 'A+',
 
     email: 'student3@gmail.com',
     contactNo: '1235678',
@@ -60,7 +60,7 @@ const studentDefaultValues = {
   },
   gender: 'male',
 
-  bloogGroup: 'A+',
+  bloodGroup: 'A+',
 
   contactNo: '1235678',
   emergencyContactNo: '987-654-3210',
@@ -150,7 +150,7 @@ const CreateStudent = () => {
             <Col span={24} md={{ span: 12 }} lg={{ span: 8 }}>
               <PHSelect
                 options={bloodGroupOptions}
-                name="bloogGroup"
+                name="bloodGroup"
                 label="Blood group"
               />
             </Col>
